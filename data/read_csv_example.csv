@@ -1,0 +1,5 @@
+groupid,artifact_projected_cost,artifact_size,compute_time,graph_date,idealcost,origin,product,project,pushid,taskcount,totalcost
+E8YKzRUXQOCffdmMoju6oQ,6.071861001795864,39919312545,440637.298,1549965020,17.8067152172037,push,firefox,integration/mozilla-inbound,111866,266,18.373165977569084
+I-GrVt7xTDexdsbPyLv2wA,6.068639055809827,39897904861,437860.412,1549969571,17.974788549338985,push,firefox,integration/mozilla-inbound,111868,261,18.214615047347422
+LqX6qIZwST2XrwdPbKQZNA,8.16275562511936,53665779831,1170998.66,1549966601,33.802509818198196,push,firefox,integration/mozilla-inbound,111867,590,34.96245472607017
+P_04PslWRbWjvlGnymzobA,9.012624980019842,59254117095,2927615.26,1549974535,66.42261193993626,push,firefox,integration/mozilla-inbound,111869,2021,69.10579056386773
